@@ -22,4 +22,3 @@ def divide(a: float, b: float) -> float:
         raise ValueError("Cannot divide by zero")
     return a / b
 
-# This is an intentionally very very very very very very very very very very long line to break flake8
