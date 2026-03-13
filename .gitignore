@@ -1,10 +1,16 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
 .pytest_cache/
 .coverage
 htmlcov/
+.venv/
 
+# act
 .secrets
+act-lint.log
 
+# IDE
 .vscode/
 .idea/
